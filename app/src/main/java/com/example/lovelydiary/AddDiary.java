@@ -67,6 +67,7 @@ public class AddDiary extends AppCompatActivity {
                 else if(strTitle.equals("")&&strContent.equals("")){
                     Toast.makeText(AddDiary.this,"要输入内容哦!",Toast.LENGTH_SHORT).show();
                     //返回界面
+                   //////hjjjkkjkjk
                 }
                 else{
                     ContentValues values = new ContentValues();
